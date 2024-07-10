@@ -48,19 +48,14 @@ This Python script (`PRODIGY_CS_02(Image encryption).py`) allows you to encrypt 
    - Execute the script using `python PRODIGY_CS_02(Image encryption).py`.
 
 ## Example
-
-Assume you have an image named `image.jpg` located in the same directory as your script. Here’s how you would encrypt and decrypt it:
-
-```bash
-python PRODIGY_CS_02(Image encryption).py
-
-Enter the path to the image file: image.jpg
-Enter an integer key between 0 and 255: 123
-Image encrypted successfully. Encrypted image saved as: encrypted_image.png
-
-Do you want to decrypt the image? (yes/no): yes
-Enter the decryption key (same as encryption key): 123
-Image decrypted successfully. Decrypted image saved as: decrypted_image.png
+ - Assume you have an image named `image.jpg` located in the same directory as your script. Here’s how you would encrypt and decrypt it:
+ - python PRODIGY_CS_02(Image encryption).py
+ - Enter the path to the image file: image.jpg
+ - Enter an integer key between 0 and 255: 123
+ - Image encrypted successfully. Encrypted image saved as: encrypted_image.png
+ - Do you want to decrypt the image? (yes/no): yes
+ - Enter the decryption key (same as encryption key): 123
+ - Image decrypted successfully. Decrypted image saved as: decrypted_image.png
 
 ## Notes:
 
